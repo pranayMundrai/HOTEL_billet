@@ -8,4 +8,4 @@ Bill Generation: After selecting at least one item, you can generate your bill w
 Order Cancellation: Changed your mind about an item? No problem! You can easily cancel or modify your order before generating the bill.
 We've utilized Python dictionaries for temporary storage of your order details, while text files handle permanent storage of the menu items and bills along with customer information.
 
-So get ready to embark on this exciting journey with us, where delicious food meets seamless user experience! Let's create unforgettable moments, one order at a time.
+
